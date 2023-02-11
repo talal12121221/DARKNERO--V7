@@ -1,8 +1,8 @@
 
 
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V7⚜️<br></h1>
+<h1 align="center">⚜️الإمبراطور انوس⚜️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/1592262447c5ce8714b60.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -22,29 +22,29 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 -------
 
-## ```Connect With Me```
+## ```المطور```
 <p align="center">
-<a href="https://wa.me/+94774071805"><img src="https://img.shields.io/badge/Contact darktem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+967771160204 "><img src="https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz" />
 
 
 ## ```Bot Support Groups```
 
 - 
-- [`1nd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
+- [`1nd GC`](https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz)
 
 
-# Setup For Deployment 👇
+# مواقع انشر مجان👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARKNERO--V7/fork)
+- صنع شوكه من هنا [شوكه](https://github.com/vhhvf/DARKNERO--V7)
 
-## `Scan QR Code For Session`
+## `مسح Qr`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
 
- ` BUILDPACKS`
+ `روابط ادعم`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz
+https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz
 ```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARKNERO--V7)
@@ -53,21 +53,21 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
 
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+# روابط على المطور👇
+## `روابط خاصه في مطور البوت`
+* [قناتي اليوتيوب اثانيه](https://www.youtube.com/@fallingfalling8244)
+* [قناتي على اليوت](https://youtube.com/@emperoranus7621)
+* [تواصل مع المطور](https://api.whatsapp.com/send?phone=967771160204&text=) 
+* [جرَب الدعم](https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz)
 * Any text editor
-## `Clone Repo & Installation dependencies`
+## `اوامر انشر على Replit`
 ```bash
-git clone https://github.com/Kaveeshasithum/DARKNERO--V7.git
+git clone https://github.com/vhhvf/DARKNERO--V7.git
 cd DARKNERO--V7
 
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+## `For الترمكس/Ssh/Ubuntu`
 ```bash
 apt update
 apt upgrade
@@ -79,11 +79,11 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Kaveeshasithum/DARKNERO--V7
+git clone https://github.com/vhhvf/DARKNERO--V7
 cd CheemsBot-MD
 npm start
 ```
-## `For VPS`
+## `اوامر VPS`
 ```bash
 apt install nodejs 
 apt install git 
@@ -91,11 +91,11 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Kaveeshasithum/DARKNERO--V7
+git clone https://github.com/vhhvf/DARKNERO--V7
 cd CheemsBot-MD6
 npm start
 ```
-## `For 24/7 Activation (Termux)`
+## `وضع قيد الحياة لمدت24/7في(الترمكس)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
@@ -105,8 +105,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > انا احبكم واحب من استعمل بوتات الامبراطور انوس يا حلوين💖
  
-# > VIHANGA
-# > NIMESH
-# > THINURA
+# > انا لقبي انوس واسمي شهاب طالب في اثنويه وعمري 16
+# > لستو مبرمج ولاكن اتابع تطوير البوتات لانها مسليه
+# > احبك ودام انه الحب الي الله والنبي والاخير الحب للبنات😂ثما انتم
