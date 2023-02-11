@@ -38,7 +38,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 - صنع شوكه من هنا [شوكه](https://github.com/vhhvf/DARKNERO--V7)
 
 ## `مسح Qr`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@bxxnxns/EMPERORANUS-5)
 
  `روابط ادعم`
 
@@ -47,11 +47,11 @@ https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz
 https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARKNERO--V7)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/vhhvf/DARKNERO--V7)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vhhvf/DARKNERO--V7/)
 
 # روابط على المطور👇
 ## `روابط خاصه في مطور البوت`
